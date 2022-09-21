@@ -14,5 +14,7 @@
                     "%DOC%"
             ]
         }
-    ]
+    ],
+    "editor.inlineSuggest.enabled": true,
+    "editor.fontSize": 16
 }
