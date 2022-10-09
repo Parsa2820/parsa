@@ -5,7 +5,7 @@
 #+end_src
 
 #+RESULTS:
-: Wed Sep 21 11:32:18 PM +0430 2022
+: Sun Oct  9 21:07:42 +0330 2022
 
 * Install extensions
 #+begin_src sh :results verbatim
@@ -17,4 +17,4 @@
 #+end_src
 
 #+RESULTS:
-: Fri Sep 16 12:59:39 AM +0430 2022
+: Sun Oct  9 21:07:55 +0330 2022

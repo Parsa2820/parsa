@@ -1,15 +1,15 @@
 # Normal green
-ng="\e[0;32m"
+ng="\[\e[0;32m\]"
 # Normal purple
-np="\e[0;35m"
+np="\[\e[0;35m\]"
 # Normal blue
-nb="\e[0;34m"
+nb="\[\e[0;34m\]"
 # Normal brown
-nbr="\e[0;33m"
+nbr="\[\e[0;33m\]"
 # Normal red
-nr="\e[0;31m"
+nr="\[\e[0;31m\]"
 # Exit color change mode
-eccm="\e[0m"
+eccm="\[\e[0m\]"
 function prompt_command {
     # Previous command exit code
     exit_code=$?
@@ -37,3 +37,4 @@ function prompt_command {
 }
 
 export PROMPT_COMMAND=prompt_command
+# export PS1="\[\033[01;32m\][\t \u@\H \w]\$ \[\e[0m\]"
