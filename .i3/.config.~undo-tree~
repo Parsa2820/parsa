@@ -1,0 +1,54 @@
+(undo-tree-save-format-version . 1)
+"59cc071effe24f62470a93ffb2dd98324d6ef848"
+[nil nil nil nil (25455 44113 146286 565000) 0 nil]
+([nil nil ((15888 . 15889) (t 25428 704 896508 611000) 15888) nil (25455 44113 146284 933000) 0 nil])
+([nil nil ((15889 . 15890)) nil (25455 44113 146283 299000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . -15888) (undo-tree-id17 . -1) (#("i" 0 1 (fontified t face font-lock-variable-name-face)) . -15889) (undo-tree-id18 . -1) 15890) nil (25455 44113 146281 599000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 15916 . 15917) (nil fontified nil 15888 . 15917) (15888 . 15917)) nil (25455 44113 146277 262000) 0 nil])
+([nil nil ((#("
+assign [class=\"Firefox\"] $ws3" 0 1 (fontified t) 1 7 (fontified t face font-lock-variable-name-face) 7 15 (fontified t) 15 24 (fontified t face font-lock-string-face) 24 29 (fontified t) 29 30 (fontified t rear-nonsticky t)) . 15887) (undo-tree-id0 . -28) (undo-tree-id1 . -1) (undo-tree-id2 . -29) (undo-tree-id3 . -1) (undo-tree-id4 . -29) (undo-tree-id5 . -29) (undo-tree-id6 . -26) (undo-tree-id7 . -26) (undo-tree-id8 . -26) (undo-tree-id9 . -26) (undo-tree-id10 . -26) (undo-tree-id11 . -26) (undo-tree-id12 . -1) (undo-tree-id13 . -28) (undo-tree-id14 . -28) (undo-tree-id15 . -28) (undo-tree-id16 . -28) 15915) nil (25455 44113 146270 782000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 6354 . 6355) (#("
+" 0 1 (face font-lock-comment-face fontified nil)) . -6390) (6354 . 6391) 6319 (t 25455 44113 202321 339000)) nil (25455 44134 260387 721000) 0 nil])
+([nil nil ((#("#" 0 1 (fontified t face font-lock-comment-delimiter-face)) . 6319)) nil (25455 44134 260385 505000) 0 nil])
+([nil nil ((#(" " 0 1 (fontified t)) . 6319)) nil (25455 44134 260384 143000) 0 nil])
+([nil nil ((#("Thunderbird" 0 11 (fontified t face font-lock-string-face)) . 6334) (undo-tree-id19 . -10) (undo-tree-id20 . -10) (undo-tree-id21 . -3) (undo-tree-id22 . -3) (undo-tree-id23 . -3) (undo-tree-id24 . -3) (undo-tree-id25 . -4) (undo-tree-id26 . -4) (undo-tree-id27 . -4) (undo-tree-id28 . -4) (undo-tree-id29 . -5) (undo-tree-id30 . -5) (undo-tree-id31 . -5) (undo-tree-id32 . -5) (undo-tree-id33 . -6) (undo-tree-id34 . -6) (undo-tree-id35 . -6) (undo-tree-id36 . -6) (undo-tree-id37 . -7) (undo-tree-id38 . -7) (undo-tree-id39 . -7) (undo-tree-id40 . -7)) nil (25455 44134 260380 477000) 0 nil])
+([nil nil ((6334 . 6342)) nil (25455 44134 260349 679000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 6349 . 6350) (#("
+" 0 1 (face font-lock-comment-face fontified nil)) . -6383) (6349 . 6384) 6319 (t 25455 44134 258989 372000)) nil (25455 44163 147680 386000) 0 nil])
+([nil nil ((#("#" 0 1 (fontified t face font-lock-comment-delimiter-face)) . 6350)) nil (25455 44170 552782 116000) 0 nil] [nil nil ((#("#" 0 1 (fontified t face font-lock-comment-delimiter-face)) . 6384)) ((6384 . 6385)) (25455 44163 147618 598000) 0 nil])
+([nil nil ((#(" " 0 1 (fontified t)) . 6350)) nil (25455 44170 552780 635000) 0 nil])
+nil
+([nil nil ((#("Pale moon" 0 9 (fontified t face font-lock-string-face)) . 6365)) nil (25455 44170 552778 200000) 0 nil])
+([nil nil ((6365 . 6372)) nil (25455 44170 552772 33000) 0 nil])
+([nil nil ((6379 . 6380) (t 25455 44170 552325 41000) 6371) nil (25455 44234 230332 332000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 6380 . 6381) (#("
+" 0 1 (face font-lock-comment-face fontified nil)) . -6412) (6380 . 6413)) nil (25455 44234 230326 304000) 0 nil])
+([nil nil ((#("#" 0 1 (fontified t face font-lock-comment-delimiter-face)) . 6381)) nil (25455 44234 230320 906000) 0 nil])
+([nil nil ((#(" " 0 1 (fontified t)) . 6381)) nil (25455 44234 230317 227000) 0 nil])
+([nil nil ((#("assign [class=\"Pcmanfm\"] $ws3
+" 0 6 (fontified t face font-lock-variable-name-face) 6 14 (fontified t) 14 23 (fontified t face font-lock-string-face) 23 25 (fontified t) 25 29 (fontified t) 29 30 (fontified t rear-nonsticky t)) . 6381) (undo-tree-id43 . -29) (undo-tree-id44 . 1) (undo-tree-id45 . -29)) nil (25455 44234 230312 528000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 6379 . 6380) (#("
+" 0 1 (rear-nonsticky t fontified nil)) . -6409) (6379 . 6410) 6350) nil (25455 44234 230299 815000) 0 nil])
+([nil nil ((#("
+" 0 1 (rear-nonsticky t fontified t)) . 6410)) nil (25455 44234 230293 384000) 0 nil])
+([nil nil ((#("Pcmanfm" 0 7 (fontified t face font-lock-string-face)) . 6395)) nil (25455 44234 230289 704000) 0 nil])
+([nil nil ((6395 . 6400)) nil (25455 44234 230286 176000) 0 nil])
+([nil nil ((6406 . 6407) (#("3" 0 1 (fontified t)) . 6406) (undo-tree-id41 . -1) (undo-tree-id42 . -1)) nil (25455 44234 230278 497000) 0 nil])
+([nil nil ((#("Firefox" 0 7 (fontified t face font-lock-string-face)) . 6365) (undo-tree-id46 . -3) (undo-tree-id47 . -3) (undo-tree-id48 . -3) (undo-tree-id49 . -4) (undo-tree-id50 . -4) (undo-tree-id51 . -4) (undo-tree-id52 . -4) (undo-tree-id53 . -5) (undo-tree-id54 . -5) (undo-tree-id55 . -5) (undo-tree-id56 . -5) (undo-tree-id57 . -6) (undo-tree-id58 . -6) (undo-tree-id59 . -6) (undo-tree-id60 . -6) (undo-tree-id61 . -7) (undo-tree-id62 . -7) (undo-tree-id63 . -7) (undo-tree-id64 . -7) (t 25455 44234 228995 738000)) nil (25455 44352 80892 506000) 0 nil])
+([nil nil ((6365 . 6372)) nil (25455 44478 83387 935000) 0 nil])
+([nil nil ((#("Mozilla" 0 7 (fontified t face font-lock-string-face)) . 6365) (undo-tree-id92 . -6) (undo-tree-id93 . -6) (undo-tree-id94 . -6) (undo-tree-id95 . -6) (undo-tree-id96 . -6) (undo-tree-id97 . -6) (undo-tree-id98 . -6) (undo-tree-id99 . -6) (undo-tree-id100 . -6) (undo-tree-id101 . -6) (undo-tree-id102 . -6) (undo-tree-id103 . -6) (undo-tree-id104 . -6) (undo-tree-id105 . -6) (undo-tree-id106 . -6) (undo-tree-id107 . -6) (undo-tree-id108 . -6) (undo-tree-id109 . -6) (undo-tree-id110 . -6) (undo-tree-id111 . -6) (undo-tree-id112 . -6) (undo-tree-id113 . -6) (undo-tree-id114 . -6) (undo-tree-id115 . -6) (undo-tree-id116 . -6) (undo-tree-id117 . -6) (t 25455 44479 492344 664000)) nil (25455 44483 511318 92000) 0 nil] [nil nil ((#("Mozilla" 0 7 (fontified t face font-lock-string-face)) . 6365) (undo-tree-id65 . -6) (undo-tree-id66 . -6) (undo-tree-id67 . -6) (undo-tree-id68 . -6) (undo-tree-id69 . -6) (undo-tree-id70 . -6) (undo-tree-id71 . -6) (undo-tree-id72 . -6) (undo-tree-id73 . -6) (undo-tree-id74 . -6) (undo-tree-id75 . -6) (undo-tree-id76 . -6) (undo-tree-id77 . -6) (undo-tree-id78 . -6) (undo-tree-id79 . -6) (undo-tree-id80 . -6) (undo-tree-id81 . -6) (undo-tree-id82 . -6) (undo-tree-id83 . -6) (undo-tree-id84 . -6) (undo-tree-id85 . -6) (undo-tree-id86 . -6) (undo-tree-id87 . -6) (undo-tree-id88 . -6) (undo-tree-id89 . -6) (undo-tree-id90 . -6) (undo-tree-id91 . -6) (t 25455 44352 79003 233000)) ((6365 . 6372) (t 25455 44404 239006 555000)) (25455 44404 239555 581000) 0 nil])
+([nil nil ((6365 . 6372)) nil (25455 44483 511229 589000) 0 nil])
+nil
+([nil nil ((6365 . 6366) (#("F" 0 1 (fontified t face font-lock-string-face)) . 6365) (t 25455 44483 509011 591000)) nil (25455 44988 733678 823000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 6349 . 6350) (#("
+" 0 1 (rear-nonsticky t fontified nil)) . -6380) (6349 . 6381) 6334 (t 25455 44960 109042 67000)) nil (25455 44996 59982 135000) 0 nil] [nil nil ((nil rear-nonsticky nil 6349 . 6350) (#("
+" 0 1 (face font-lock-comment-face fontified nil)) . -6379) (6349 . 6380) 6334 (t 25455 44960 109042 67000)) ((#("
+# assign [class=\"Skype\"] $ws5
+" 0 1 (fontified nil rear-nonsticky nil) 1 3 (fontified nil face font-lock-comment-delimiter-face) 3 30 (fontified nil face font-lock-comment-face) 30 31 (face font-lock-comment-face fontified nil)) . 6349) (undo-tree-id118 . -30) (undo-tree-id119 . -1) (undo-tree-id120 . -30) (undo-tree-id121 . -1) (undo-tree-id122 . -1) (undo-tree-id123 . -1) (6379 . 6380) (nil rear-nonsticky t 6349 . 6350)) (25455 44988 733429 66000) 0 nil])
+([nil nil ((#("Telegram" 0 8 (fontified t face font-lock-string-face)) . 6365)) nil (25455 44996 59979 434000) 0 nil])
+nil
+([nil nil ((6365 . 6366)) nil (25455 44996 59978 89000) 0 nil])
+([nil nil ((#("s" 0 1 (fontified t face font-lock-string-face)) . -6365) (undo-tree-id124 . -1) (undo-tree-id125 . -1) 6366) nil (25455 44996 59975 134000) 0 nil])
+([nil current ((6365 . 6370)) nil (25455 44996 59958 837000) 0 nil])
+nil
